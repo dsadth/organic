@@ -1,0 +1,49 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.hips {
+  margin-top: 4500px;
+  position: absolute;
+  width: 1920px;
+  background-color: #274c5b;
+  height: 892px;
+}
+
+.heading_block {
+  text-align: center;
+  margin-top: 188px;
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: 400;
+  font-family: Yellowtail;
+  color: #7eb693;
+}
+.heading_paragraph {
+  font-size: 50px;
+  font-family: RobotoBold;
+  font-weight: 800;
+  color: white;
+}
+
+.block_images {
+  position: absolute;
+  margin-left: 260px;
+}
+
+.image {
+  margin-left: 21px;
+}

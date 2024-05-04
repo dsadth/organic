@@ -1,0 +1,98 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.collarbones_service_single {
+  position: absolute;
+  width: 1920px;
+  margin-top: 1500px;
+}
+
+.block_about {
+  position: absolute;
+  margin-left: 492px;
+}
+.description_block_about_first {
+}
+.heading_description_block_about_first {
+  font-family: RobotoBold;
+  font-size: 35px;
+  font-weight: 800;
+  color: #274c5b;
+}
+.paragraph_description_block_about_first {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 936px;
+}
+.paragraph_two_description_block_about_first {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 936px;
+  margin-top: 30px;
+}
+
+.paragraph_description_block_about_two {
+  font-family: OpenSans;
+  font-size: 18px;
+  margin-left: 376px;
+  font-weight: 400;
+}
+
+.heading_description_block_about_three {
+  font-family: RobotoBold;
+  font-size: 35px;
+  font-weight: 800;
+  color: #274c5b;
+}
+.paragraph_description_block_about_three {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 936px;
+}
+.paragraph_two_description_block_about_three {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 936px;
+  margin-top: 30px;
+}
+
+
+.description_block_about_four{
+    margin-top: 50px;
+}
+
+.heading_description_block_about_four {
+  font-family: RobotoBold;
+  font-size: 35px;
+  font-weight: 800;
+  color: #274c5b;
+}
+.paragraph_description_block_about_four {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 936px;
+}
+.paragraph_two_description_block_about_four {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 936px;
+  margin-top: 30px;
+}

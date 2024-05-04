@@ -1,0 +1,62 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.ribs {
+  position: absolute;
+  width: 1920px;
+  height: 1073px;
+  margin-top: 2100px;
+}
+
+.background {
+  position: absolute;
+}
+
+.block_heading {
+  position: absolute;
+  margin-left: 625px;
+  margin-top: 179px;
+}
+.heading {
+  color: #7eb693;
+  font-family: Yellowtail;
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
+}
+.paragraph_heading {
+  font-family: RobotoBold;
+  font-size: 50px;
+  font-weight: 800;
+  text-align: center;
+  color: #274c5b;
+}
+.paragraph {
+  width: 671px;
+  text-align: center;
+}
+.background_wheel_ {
+  width: 107px;
+  height: 107px;
+  border-radius: 200px;
+  background-color: #7eb693;
+  margin-left: 290px;
+}
+
+.pause {
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 40px;
+}

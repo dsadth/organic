@@ -1,0 +1,128 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.collarbones_service_single {
+  position: absolute;
+  margin-top: 800px;
+}
+
+.block {
+  position: absolute;
+  margin-left: 260px;
+}
+.image {
+}
+.top_block_description {
+}
+.heading_top_block_description {
+  color: #274c5b;
+  font-family: RobotoBold;
+  font-weight: 800;
+}
+.paragraph_top_block_description {
+  width: 936px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.paragraph_two_top_block_description {
+  width: 936px;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 50px;
+}
+.middle_block_description {
+}
+.middle_top_block_description {
+  width: 936px;
+}
+.right_middle_top_block_description {
+  width: 537px;
+  background-color: #f9f8f8;
+  height: 252px;
+  border-radius: 30px;
+  margin-left: 399px;
+}
+.heading_right_middle_top_block_description {
+  margin-left: 45px;
+  padding-top: 63px;
+}
+.paragraph_right_middle_top_block_description {
+  margin-left: 45px;
+  width: 447px;
+  font-size: 18px;
+}
+
+.right_middle_bottom_block_description {
+  width: 537px;
+  background-color: #f9f8f8;
+  height: 252px;
+  border-radius: 30px;
+}
+
+.heading_right_middle_bottom_block_description {
+  margin-left: 45px;
+  padding-top: 63px;
+}
+.paragraph_right_middle_bottom_block_description {
+  margin-left: 45px;
+  width: 447px;
+  font-size: 18px;
+}
+
+.full_block_description {
+  margin-left: 232px;
+  margin-top: 78px;
+}
+
+.desc_image_first {
+  border-radius: 25px;
+  position: absolute;
+}
+
+.desc_image_two {
+  position: absolute;
+  border-radius: 25px;
+  margin-left: 550px;
+  margin-top: 20px;
+}
+
+.bottom_block_description {
+  display: flex;
+  margin-top: 70px;
+}
+.heading_bottom_block_description {
+}
+.heading_heading_bottom_block_description {
+  font-family: RobotoBold;
+  font-weight: 800;
+  font-size: 35px;
+}
+.paragraph_heading_bottom_block_description {
+  width: 936px;
+  font-size: 18px;
+}
+.img {
+  width: 390px;
+  height: 99px;
+  position: absolute;
+  margin-top: 190px;
+}
+.imgtwo {
+  width: 390px;
+  height: 99px;
+  position: absolute;
+  margin-left: 418px;
+  margin-top: 190px;
+}

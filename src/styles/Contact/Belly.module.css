@@ -1,0 +1,116 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.belly_contact {
+  position: absolute;
+  margin-top: 2700px;
+}
+.inputs_block {
+  position: absolute;
+  width: 1184px;
+  margin-left: 368px;
+}
+
+.input_label {
+  width: 1184px;
+}
+
+.input_name {
+  width: 569px;
+  height: 80px;
+  border-radius: 16px;
+  position: absolute;
+  margin-top: 100px;
+}
+.input_email {
+  width: 569px;
+  height: 80px;
+  border-radius: 16px;
+  position: absolute;
+  margin-left: 630px;
+  margin-top: 100px;
+}
+.input_company {
+  width: 569px;
+  height: 80px;
+  border-radius: 16px;
+  position: absolute;
+  margin-top: 300px;
+}
+.input_subject {
+  width: 569px;
+  height: 80px;
+  border-radius: 16px;
+  position: absolute;
+  margin-left: 630px;
+  margin-top: 300px;
+}
+
+.input_label_name {
+  position: absolute;
+  margin-left: ;
+  font-family: RobotoBold;
+  font-size: 18px;
+  margin-top: 40px;
+}
+.input_label_email {
+  position: absolute;
+  margin-left: 630px;
+  font-family: RobotoBold;
+  font-size: 18px;
+  margin-top: 40px;
+}
+.input_label_company {
+  position: absolute;
+  margin-top: 250px;
+  font-family: RobotoBold;
+  font-size: 18px;
+}
+.input_label_subject {
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 630px;
+  font-family: RobotoBold;
+  font-size: 18px;
+}
+
+.label_message {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: RobotoBold;
+  margin-top: 470px;
+  position: absolute;
+}
+.message_input {
+  width: 1184px;
+  height: 247px;
+  position: absolute;
+  margin-top: 530px;
+  border-radius: 16px;
+}
+
+.button {
+  width: 220px;
+  height: 80px;
+  background-color: #274c5b;
+  color: white;
+  font-family: RobotoBold;
+  font-weight: 700;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 850px;
+  margin-left: 368px;
+  border-radius: 16px;
+}

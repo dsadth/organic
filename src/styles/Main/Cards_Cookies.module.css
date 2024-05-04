@@ -1,0 +1,51 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.cards_cookies {
+  width: 1920px;
+  height: 957px;
+  position: absolute;
+  margin-top: 7990px;
+  display: inline;
+  background-color: #f1f8f4;
+}
+
+.card_block {
+  display: inline-flex;
+  margin-top: 187px;
+}
+
+.card_image {
+  margin-left: 42px;
+}
+
+.heading {
+  padding-left: 83px;
+  padding-top: 15px;
+  font-size: 25px;
+  font-family: RobotoBold;
+  font-weight: 500;
+}
+
+.heading_block {
+  width: 303px;
+  height: 96px;
+  background-color: white;
+  color: #274c5b;
+  border-radius: 25px;
+  position: absolute;
+  margin-top: 244px;
+  margin-left: 146px;
+}

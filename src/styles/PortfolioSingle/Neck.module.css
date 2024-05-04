@@ -1,0 +1,103 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.neck_services_single {
+  width: 1920px;
+  position: absolute;
+  margin-top: 204px;
+  display: flex;
+}
+
+.raspberry {
+  width: 1400px;
+  height: 385px;
+  background-color: white;
+  position: absolute;
+  margin-top: 730px;
+  margin-left: 260px;
+  border-radius: 25px;
+  display: flex;
+  box-shadow: 0px 14px 36px 0px #cccccc40;
+}
+
+.heading {
+  font-size: 70px;
+  font-weight: 800;
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-left: 83px;
+  margin-top: 97px;
+  margin-bottom: 0;
+}
+.paragraph {
+  margin-left: 83px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 726px;
+  margin-top: 20px;
+  position: absolute;
+  margin-top: 230px;
+}
+
+.right_block {
+  position: absolute;
+  margin-left: 900px;
+  width: 509px;
+  height: 385px;
+  background-color: #fafafa;
+  border-radius: 0px 30px 30px 0px;
+}
+.heading_right_block {
+  position: absolute;
+  margin-top: 106px;
+  margin-left: 111px;
+}
+
+.heading_right {
+  font-family: RobotoBold;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 29.3px;
+  text-align: left;
+  display: flex;
+}
+
+.two_point_block {
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 105px;
+}
+.two_point {
+  font-family: RobotoBold;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 29.3px;
+  text-align: left;
+  display: flex;
+}
+.paragraph_right {
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29.77px;
+  text-align: left;
+  margin-left: 300px;
+}
+
+.paragraph_right_block {
+  position: absolute;
+  margin-top: 100px;
+}

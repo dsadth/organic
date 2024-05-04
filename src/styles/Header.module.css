@@ -1,0 +1,167 @@
+@font-face {
+  font-family: RobotoBold;
+  src: url(../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+.header {
+  width: 1920px;
+  height: 204px;
+  position: absolute;
+}
+
+.header_block {
+  width: 1595px;
+  height: 79px;
+  margin-top: 69px;
+  margin-left: 162px;
+  position: absolute;
+}
+
+.logo {
+  width: 36.58px;
+  position: absolute;
+  height: 53.72px;
+}
+
+.organick {
+  margin-left: 50.21px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+.block_menu_list {
+  display: inline-flex;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 270px;
+}
+.menu_list {
+  margin-left: 60px;
+  font-family: RobotoBold;
+  font-size: 20px;
+}
+
+.menu_list span {
+  cursor: pointer;
+}
+
+.input_block {
+  width: 376px;
+  height: 66px;
+  background-color: #fafafa;
+  border: none;
+  border-radius: 200px;
+  margin-left: 1100px;
+  position: absolute;
+}
+
+.input {
+  width: 376px;
+  height: 66px;
+  background-color: #fafafa;
+  border: none;
+  border-radius: 200px;
+  position: absolute;
+  cursor: pointer;
+}
+.search_background {
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.search {
+  position: absolute;
+  margin-top: 21px;
+  margin-left: 317px;
+  cursor: pointer;
+}
+
+.cart_block {
+  position: absolute;
+  display: flex;
+  width: 159px;
+  height: 66px;
+  border-radius: 200px;
+  border: 1px solid black;
+  margin-left: 1500px;
+  cursor: pointer;
+}
+.cart_background {
+  width: 56px;
+  height: 56px;
+  margin-top: 5px;
+  margin-left: 5px;
+  position: absolute;
+  cursor: pointer;
+}
+.cart {
+  width: 23.53px;
+  height: 22px;
+  margin-left: 20px;
+  margin-top: 23px;
+  position: absolute;
+  cursor: pointer;
+}
+.cart_numbers {
+  position: absolute;
+  font-size: 18px;
+  position: absolute;
+  font-family: RobotoBold;
+  margin-left: 80px;
+  margin-top: 23px;
+  width: 200px;
+  cursor: pointer;
+}
+
+.page_menu {
+  width: 100px;
+  position: absolute;
+  margin-left: 270px;
+  margin-top: 50px;
+  z-index: 1;
+  border: 1px solid black;
+  background-color: white;
+}
+.page_service {
+  font-family: RobotoBold;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 20;
+  text-align: center;
+}
+.page_portfolio {
+  font-family: RobotoBold;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 20;
+  text-align: center;
+}
+.page_team {
+  font-family: RobotoBold;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 20;
+  text-align: center;
+}
+.page_blog {
+  font-family: RobotoBold;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 20;
+  text-align: center;
+}
+.page_contact {
+  font-family: RobotoBold;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 20;
+  text-align: center;
+}
+
+.body {
+  height: 20000px;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+}

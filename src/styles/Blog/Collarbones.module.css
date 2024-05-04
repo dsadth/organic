@@ -1,0 +1,140 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.items_blog {
+  margin-left: 210px;
+  margin-top: 170px;
+}
+
+.collarbones_blog {
+  position: absolute;
+  margin-top: 500px;
+}
+
+.item {
+  display: inline-flex;
+}
+
+.item_block {
+  margin-top: 100px;
+  margin-left: 46px;
+}
+
+.image {
+  border-radius: 25px;
+  width: 677px;
+  height: 524px;
+}
+
+.date_wheel {
+  position: absolute;
+  background-color: white;
+  width: 82px;
+  height: 82px;
+  border-radius: 100px;
+  margin-top: 43px;
+  margin-left: 32px;
+}
+
+.date_first {
+  position: absolute;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-left: 25px;
+  margin-top: 16px;
+}
+.date_mounth {
+  font-size: 20px;
+  font-weight: 800;
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-top: 39px;
+  margin-left: 22px;
+}
+
+.white_block {
+  position: absolute;
+  width: 612px;
+  height: 283px;
+  background-color: white;
+  border-radius: 30px;
+  margin-top: 306px;
+  margin-left: 32px;
+  display: inline;
+  box-shadow: 0px 20px 35px 0px #a7a7a740;
+}
+
+.logo {
+  position: absolute;
+  margin-left: 57px;
+  margin-top: 54px;
+}
+
+.by {
+  position: absolute;
+  margin-left: 83px;
+  margin-top: 54px;
+  font-family: RobotoBold;
+  font-size: 18px;
+}
+
+.heading {
+  margin-top: 70px;
+  font-family: RobotoBold;
+  font-size: 25px;
+  font-weight: 800;
+  color: #274c5b;
+  margin-left: 57px;
+  margin-top: 94px;
+}
+
+.paragraph {
+  font-size: 18px;
+  font-family: OpenSans;
+  font-weight: 400;
+  margin-left: 57px;
+}
+
+.read {
+  font-family: RobotoBold;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 57px;
+  color: #274c5b;
+  position: absolute;
+  width: 100px;
+}
+
+.arrow_wheel {
+  position: absolute;
+  margin-left: 170px;
+}
+
+.read_wheel {
+  position: absolute;
+  margin-left: 5;
+  margin-top: 15px;
+}
+.read_arrow {
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+
+.link {
+  position: absolute;
+}

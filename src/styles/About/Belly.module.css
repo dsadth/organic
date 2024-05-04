@@ -1,0 +1,136 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.belly {
+  position: absolute;
+  margin-top: 3200px;
+}
+
+.top_block {
+  text-align: center;
+  margin-left: 534.5px;
+  margin-top: 150px;
+  display: inline-block;
+}
+
+.heading {
+  font-family: Yellowtail;
+  color: #7eb693;
+  font-weight: 400;
+}
+
+.heading_paragraph {
+  font-size: 50px;
+  color: #274c5b;
+  font-weight: 800;
+  font-family: RobotoBold;
+}
+
+.paragraph {
+  width: 852px;
+  font-size: 18px;
+  font-family: OpenSans;
+}
+
+.person_block {
+  display: flex;
+  margin-left: 260px;
+  margin-top: 42px;
+}
+
+.first_person {
+  width: 449px;
+  height: 630px;
+  background-color: #f9f8f8;
+  border-radius: 25px;
+}
+
+.two_person {
+  width: 449px;
+  height: 630px;
+  background-color: #f9f8f8;
+  margin-left: 27px;
+  border-radius: 25px;
+}
+
+.three_person {
+  width: 449px;
+  height: 630px;
+  background-color: #f9f8f8;
+  margin-left: 27px;
+  border-radius: 25px;
+}
+
+.name {
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-left: 28px;
+  margin-top: 35px;
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.role {
+  font-family: Yellowtail;
+  font-size: 22px;
+  font-weight: 400;
+  color: #7eb693;
+  margin-left: 28px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+.first_person:hover {
+  background-color: white;
+  box-shadow: 0px 29px 44px 0px #96969640;
+
+  cursor: pointer;
+}
+
+.two_person:hover {
+  background-color: white;
+  box-shadow: 0px 29px 44px 0px #96969640;
+
+  cursor: pointer;
+}
+
+.three_person:hover {
+  background-color: white;
+  box-shadow: 0px 29px 44px 0px #96969640;
+
+  cursor: pointer;
+}
+
+.social_block {
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 40px;
+}
+
+.social_image {
+  margin-left: 17px;
+}
+
+.first_social_block {
+  margin-left: 340px;
+  display: inline;
+  position: absolute;
+  margin-top: 40px;
+}
+.first_social_image {
+}
+.first_social_image {
+  margin-left: 17px;
+}

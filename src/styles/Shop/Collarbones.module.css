@@ -1,0 +1,129 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+.collarbones {
+  position: absolute;
+  margin-top: 400px;
+  display: flex;
+}
+
+.belly_block {
+  display: inline-flexbox;
+}
+
+.items {
+  margin-left: 250px;
+  margin-top: 332px;
+  display: inline-flex;
+}
+
+.heading_categories {
+  position: absolute;
+  margin-left: 790px;
+  margin-top: 140px;
+}
+.categories_heading {
+  font-size: 36px;
+  margin-left: 65px;
+  font-family: Yellowtail;
+  color: #7eb693;
+  margin-bottom: 20px;
+}
+.our_products {
+  font-size: 50px;
+  margin-top: 0;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+
+.item_block {
+  display: inline-flex;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+.item {
+  display: inline-flexbox;
+  width: 335px;
+  height: 500px;
+  background-color: #f9f8f8;
+  border-radius: 25px;
+}
+
+.image {
+  width: 335px;
+  height: 324px;
+}
+
+.category {
+  font-size: 15px;
+  width: 96px;
+  height: 20px;
+  background-color: #274c5b;
+  border-radius: 9px;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.heading {
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  width: 274.99px;
+  margin-left: 30px;
+  font-weight: 600;
+  font-family: RobotoBold;
+}
+.last_price {
+  font-size: 15px;
+  display: inline;
+  margin-left: 30px;
+  color: #b8b8b8;
+  text-decoration: line-through;
+}
+.now_price {
+  font-size: 18px;
+  display: inline;
+  margin-left: 10px;
+}
+.stars {
+}
+
+.button {
+  position: absolute;
+  width: 220px;
+  height: 79px;
+  background-color: #274c5b;
+  border-radius: 20px;
+  border: 0;
+  font-size: 20px;
+  font-family: RobotoBold;
+  color: white;
+  margin-left: 850px;
+  margin-top: 1500px;
+  cursor: pointer;
+}
+
+.arrow {
+  position: absolute;
+  margin-left: 13px;
+  margin-top: 7px;
+  z-index: 1;
+}
+.arrow_background {
+  margin-top: 2px;
+  margin-left: 7px;
+  position: absolute;
+}
+
+.stars {
+  margin-left: 95px;
+}

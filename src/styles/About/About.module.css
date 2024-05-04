@@ -1,0 +1,11 @@
+.about {
+  display: flex;
+}
+
+.subscribe_footer {
+  position: absolute;
+}
+
+.footer_block {
+  position: absolute;
+}

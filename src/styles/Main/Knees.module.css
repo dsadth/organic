@@ -1,0 +1,189 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.knees {
+  width: 1920px;
+  height: 1050px;
+  background-color: #274c5b;
+  margin-top: 6010px;
+  position: absolute;
+  display: flex;
+}
+
+.heading_block {
+  position: absolute;
+  margin-left: 260.18px;
+  margin-top: 201px;
+}
+
+.heading {
+  font-family: Yellowtail;
+  color: #7eb693;
+  font-size: 36px;
+  margin-bottom: 0;
+  position: absolute;
+}
+.heading_paragraph {
+  font-family: RobotoBold;
+  color: white;
+  font-size: 50px;
+  margin-top: 80px;
+  position: absolute;
+  width: 600px;
+}
+
+.button {
+  position: absolute;
+  width: 220px;
+  height: 79px;
+  background-color: #efd372;
+  border-radius: 20px;
+  border: 0;
+  font-size: 20px;
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-left: 1403.18px;
+  margin-top: 260px;
+  cursor: pointer;
+}
+
+.arrow {
+  position: absolute;
+  margin-left: 13px;
+  margin-top: 7px;
+  z-index: 1;
+}
+.arrow_background {
+  margin-top: 2px;
+  margin-left: 7px;
+  position: absolute;
+}
+
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+.items {
+  margin-left: 250px;
+  margin-top: 332px;
+  display: inline-flex;
+}
+
+.heading_categories {
+  position: absolute;
+  margin-left: 790px;
+  margin-top: 140px;
+}
+.categories_heading {
+  font-size: 36px;
+  margin-left: 65px;
+  font-family: Yellowtail;
+  color: #7eb693;
+  margin-bottom: 20px;
+}
+.our_products {
+  font-size: 50px;
+  margin-top: 0;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+
+.item_block {
+  display: inline-flex;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.item {
+  display: inline;
+  width: 335px;
+  height: 500px;
+  background-color: white;
+  border-radius: 25px;
+}
+
+.image {
+  width: 335px;
+  height: 324px;
+}
+
+.category {
+  font-size: 15px;
+  width: 96px;
+  height: 20px;
+  background-color: #274c5b;
+  border-radius: 9px;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.heading_card {
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  width: 274.99px;
+  margin-left: 30px;
+  font-weight: 600;
+  font-family: RobotoBold;
+}
+.last_price {
+  font-size: 15px;
+  display: inline;
+  margin-left: 30px;
+  color: #b8b8b8;
+  text-decoration: line-through;
+}
+.now_price {
+  font-size: 18px;
+  display: inline;
+  margin-left: 10px;
+}
+
+.button {
+  position: absolute;
+  width: 256px;
+  height: 79px;
+  background-color: #efd372;
+  border-radius: 20px;
+  border: 0;
+  font-size: 20px;
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-left: 1404.18px;
+  cursor: pointer;
+}
+
+.arrow {
+  position: absolute;
+  margin-left: 13px;
+  margin-top: 7px;
+  z-index: 1;
+}
+.arrow_background {
+  margin-top: 2px;
+  margin-left: 7px;
+  position: absolute;
+}
+
+.stars {
+  margin-left: 95px;
+}

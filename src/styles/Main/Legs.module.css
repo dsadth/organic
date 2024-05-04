@@ -1,0 +1,68 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.legs {
+  width: 1920px;
+  height: 931px;
+  position: absolute;
+  margin-top: 7060px;
+}
+
+.left_block {
+  position: absolute;
+}
+
+.right_block {
+  width: 789px;
+  height: 723px;
+  margin-left: 871px;
+  background-color: white;
+  border-radius: 25px;
+  position: absolute;
+  margin-top: 100px;
+}
+
+.eco_card {
+}
+.eco_heading {
+  font-family: Yellowtail;
+  color: #7eb693;
+  font-weight: 400;
+  font-size: 36px;
+  margin-left: 89px;
+  margin-top: 79px;
+}
+.heading_paragraph {
+  font-size: 50px;
+  color: #274c5b;
+  font-weight: 800;
+  font-family: RobotoBold;
+  width: 500px;
+  margin-left: 89px;
+}
+.card_block_sed {
+  margin-left: 89px;
+}
+.heading_card_block {
+  font-size: 25px;
+  font-weight: 500;
+  font-family: RobotoBold;
+  color: #274c5b;
+}
+.paragraph {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}

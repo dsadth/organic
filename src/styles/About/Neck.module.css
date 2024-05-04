@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.neck {
+  width: 1920px;
+  position: absolute;
+  display: flex;
+  margin-top: 204px;
+}
+
+.background {
+  position: absolute;
+}
+.heading {
+  position: absolute;
+  font-family: RobotoBold;
+  font-weight: 800;
+  width: 300px;
+  font-size: 70px;
+  margin-left: 815px;
+  margin-top: 184px;
+  color: #274C5B;
+}
+.background_image {
+  position: absolute;
+  z-index: -1;
+}
+.pattern {
+  position: absolute;
+}
+.pattern {
+  position: absolute;
+}

@@ -1,0 +1,114 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.collarbones {
+  position: absolute;
+  margin-top: 700px;
+}
+
+.banana {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 120px;
+  border-radius: 30px;
+}
+
+.right_block {
+  position: absolute;
+  margin-top: 232.5px;
+  width: 1000px;
+  margin-left: 958px;
+}
+.heading {
+  color: #274c5b;
+  font-size: 50px;
+  font-weight: 800;
+  font-family: RobotoBold;
+  width: 702px;
+}
+
+.paragraph {
+  width: 690px;
+  font-family: OpenSans;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.contact_block {
+}
+
+.message_block {
+  display: flex;
+  border: 1px solid #eeeeee;
+  width: 352px;
+  height: 113px;
+  border-radius: 16px;
+}
+
+.message_logo {
+  width: 89px;
+  height: 89px;
+  margin-top: 11px;
+  margin-left: 11px;
+}
+
+.message_heading {
+  margin-left: 30px;
+  color: #274c5b;
+}
+
+.message_paragraph {
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 60px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.phone_block {
+  display: flex;
+  border: 1px solid #eeeeee;
+  width: 352px;
+  height: 113px;
+  border-radius: 16px;
+  margin-top: 17px;
+}
+
+.phone_logo {
+  width: 89px;
+  height: 89px;
+  margin-top: 11px;
+  margin-left: 11px;
+}
+.phone_heading {
+  margin-left: 30px;
+  color: #274c5b;
+}
+.phone_number {
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 60px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+.contact_social_logo {
+  position: absolute;
+}
+.contact_logos {
+  margin-left: 15px;
+  margin-top: 34px;
+}

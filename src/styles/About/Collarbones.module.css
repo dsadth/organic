@@ -1,0 +1,115 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.collarbones {
+  position: absolute;
+  margin-top: 900px;
+  margin-left: 100px;
+}
+
+.left_block {
+  position: absolute;
+}
+
+.right_block {
+  position: absolute;
+  margin-left: 1000px;
+  width: 671px;
+}
+
+.heading {
+  font-family: Yellowtail;
+  font-size: 36px;
+  font-weight: 400;
+  color: #7eb693;
+}
+
+.heading_paragraph {
+  font-family: RobotoBold;
+  font-size: 50px;
+  font-weight: 800;
+  color: #274c5b;
+}
+
+.paragraph {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.bottom_right_block {
+  display: flex;
+  margin-top: 50px;
+}
+
+.tractor_block {
+  display: flex;
+}
+
+.tractor_image {
+  width: 51px;
+  height: 48px;
+  margin-top: 20px;
+}
+
+.tractor_heading {
+  width: 226px;
+  font-size: 25px;
+  margin-left: 15px;
+}
+
+.plant_block {
+  display: flex;
+  margin-left: 65px;
+}
+
+.plant_heading {
+  width: 226px;
+  font-size: 25px;
+  margin-left: 15px;
+}
+
+.plant_image {
+  width: 51px;
+  height: 48px;
+  margin-top: 20px;
+}
+
+.button {
+  position: absolute;
+  width: 256px;
+  height: 79px;
+  background-color: #274c5b;
+  border-radius: 20px;
+  border: 0;
+  font-size: 20px;
+  font-family: RobotoBold;
+  color: white;
+  cursor: pointer;
+  margin-top: 150px;
+}
+
+.arrow {
+  position: absolute;
+  margin-left: 13px;
+  margin-top: 7px;
+  z-index: 1;
+}
+
+.arrow_background {
+  margin-top: 2px;
+  margin-left: 7px;
+  position: absolute;
+}

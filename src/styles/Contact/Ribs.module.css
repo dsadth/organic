@@ -1,0 +1,94 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.ribs_contact {
+  position: absolute;
+  margin-top: 1800px;
+}
+
+.image {
+  margin-left: 260px;
+  border-radius: 30px;
+}
+
+.page_image {
+  border-radius: 30px;
+}
+
+.page_block_location {
+  width: 514px;
+  height: 514px;
+  position: absolute;
+  background-color: white;
+  border-radius: 30px;
+  margin-left: 778px;
+  margin-top: 122px;
+}
+
+.heading_location {
+  font-size: 36px;
+  font-weight: 400;
+  font-family: Yellowtail;
+  color: #7eb693;
+  margin-left: 58px;
+  margin-top: 46px;
+  margin-bottom: 0;
+}
+.heading_our_farms {
+  font-size: 50px;
+  color: #274c5b;
+  font-weight: 800;
+  font-family: RobotoBold;
+  margin-left: 53px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.paragraph_location {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  margin-left: 53px;
+  width: 408px;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.block_point_location {
+  display: flex;
+  margin-top: 20px;
+}
+
+.country_city {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: OpenSans;
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 30px;
+}
+.street {
+  font-weight: 400;
+  font-family: OpenSans;
+  font-size: 18px;
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 60px;
+  width: 256px;
+}
+
+.point {
+  margin-left: 53px;
+  margin-top: 30px;
+}

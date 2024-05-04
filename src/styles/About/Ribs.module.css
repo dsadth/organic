@@ -1,0 +1,97 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.ribs {
+  position: absolute;
+  margin-top: 1750px;
+  background-color: #f9f8f8;
+  width: 1920px;
+  height: 1429px;
+}
+
+.left_block {
+  display: inline;
+  position: absolute;
+  margin-left: 260px;
+  margin-top: 190px;
+}
+
+.heading {
+  color: #7eb693;
+  font-family: Yellowtail;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.heading_paragraph {
+  color: #274c5b;
+  font-family: RobotoBold;
+  font-weight: 800;
+  width: 524px;
+  font-size: 50px;
+  margin-top: 0;
+}
+.paragraph {
+  font-family: OpenSans;
+  width: 671px;
+}
+
+.heading_bottom_blocks {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+  width: 444px;
+  margin-left: 60px;
+}
+
+.right_block {
+  position: absolute;
+  margin-left: 982px;
+  margin-top: 212.5px;
+}
+
+.bottom_block {
+  display: flex;
+  position: absolute;
+  margin-top: 900px;
+  margin-left: 401px;
+}
+
+.blocks {
+  width: 257px;
+  height: 335px;
+  background-color: white;
+  margin-left: 30px;
+  border-radius: 25px;
+}
+
+.image_card {
+  margin-left: 79px;
+  margin-top: 50px;
+}
+.heading_card {
+  font-size: 25px;
+  margin-left: 51px;
+  font-family: RobotoBold;
+  color: #274c5b;
+  margin-top: 20px;
+}
+.paragraph_card {
+  margin-left: 40;
+  width: 184px;
+  font-size: 18px;
+  text-align: center;
+  margin-left: 35px;
+}

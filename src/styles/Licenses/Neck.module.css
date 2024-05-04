@@ -1,0 +1,139 @@
+@font-face {
+  font-family: Yellowtail;
+  src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoBold;
+  src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.neck {
+  position: absolute;
+  margin-top: 204px;
+}
+
+.licenses_block {
+  position: absolute;
+  margin-left: 30px;
+}
+
+.licenses_block_first {
+  margin-left: 260px;
+  margin-top: 150px;
+  display: flex;
+}
+.heading_licenses_block_first {
+  font-size: 40px;
+  width: 300px;
+  font-size: 30px;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+.paragraph_licenses_block_first {
+  width: 831px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+.paragraph_two_licenses_block_first {
+  width: 831px;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 300px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.licenses_block_two {
+  margin-left: 260px;
+  display: inline-flex;
+  margin-top: 50px;
+}
+.photography {
+  margin-top: 100px;
+  font-size: 30px;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+.paragraph_licenses_block_two {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 300px;
+  width: 831px;
+  font-size: 18px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.first_block_licenses_block_two {
+}
+.heading_first_block_licenses_block_two {
+  position: absolute;
+  margin-top: x;
+  margin-left: 300px;
+  margin-top: 200px;
+  font-size: 30px;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+.paragraph_first_block_licenses_block_two {
+  position: absolute;
+  margin-top: x;
+  margin-left: 300px;
+  margin-top: 250px;
+  width: 831px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.two_block_licenses_block_two {
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 350px;
+}
+.heading_two_first_block_licenses_block_two {
+  font-size: 30px;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+.paragraph_two_first_block_licenses_block_two {
+  width: 831px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.licenses_block_three {
+  position: absolute;
+  margin-top: 400px;
+}
+.heading_licenses_block_three {
+  position: absolute;
+  margin-left: 250px;
+  font-size: 30px;
+  color: #274c5b;
+  font-family: RobotoBold;
+}
+.paragraph_licenses_block_three {
+  position: absolute;
+  width: 709px;
+  margin-left: 560px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: OpenSans;
+}
+
+.paragraph_licenses_block_three span {
+  font-weight: 800;
+  font-family: RobotoBold;
+  font-size: 18px;
+}

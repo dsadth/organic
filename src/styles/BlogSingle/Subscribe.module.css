@@ -1,0 +1,65 @@
+@font-face {
+    font-family: Yellowtail;
+    src: url(../../styles/fonts/Yellowtail/Yellowtail-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: RobotoBold;
+    src: url(../../styles/fonts/Roboto/Roboto-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: OpenSans;
+    src: url(../../styles/fonts/OpenSans/OpenSans-Regular.ttf);
+  }
+  
+  .subscribe_block {
+    position: absolute;
+    margin-top: 2800px;
+    margin-left: 260px;
+  }
+  
+  .heading_subscribe {
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: RobotoBold;
+    width: 357px;
+    margin-top: 105px;
+    margin-left: 71px;
+  }
+  .input {
+    position: absolute;
+    width: 349px;
+    height: 80px;
+    border-radius: 15px;
+    border: none;
+    margin-left: 754px;
+    margin-top: 121.5px;
+    font-style: italic;
+  }
+  
+  .input::placeholder {
+    padding-left: 20px;
+  }
+  
+  .button {
+    position: absolute;
+    width: 220px;
+    height: 80px;
+    background-color: #274c5b;
+    border: none;
+    border-radius: 15px;
+    margin-left: 1115px;
+    margin-top: 121.5px;
+    color: white;
+    font-size: 20px;
+    font-family: RobotoBold;
+    cursor: pointer;
+  }
+  
+  .background {
+    border-radius: 40px;
+  }
+  
